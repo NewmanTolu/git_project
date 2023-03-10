@@ -2,4 +2,4 @@
 git practice
 hello
 Jenkins build
-echo "hi"
+Pratice build
